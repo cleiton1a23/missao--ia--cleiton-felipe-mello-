@@ -7,11 +7,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Como você pode começar a apostar? Saiba como escolher uma boa casa de aposta. ",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: " Você pode escolher por casas não legalizadas. ",
+                afirmacao: " Você correrá um alto risco de tomar golpe e não conseguir resgatar seu dinheiro. ",
             },
             {
                 texto: " Texto/resposta ",
