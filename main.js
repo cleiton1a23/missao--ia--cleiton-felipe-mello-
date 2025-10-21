@@ -20,54 +20,54 @@ const perguntas = [
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Quando você vai apostar, você opta por quais times?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Pelo time com maior nome ou reconhecimento. ",
+                afirmacao: " Tome cuidado com isso, pois esses, podem não estar tendo uma boa entrega, tanto no campeonato ou na temporada. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Através de análise e estatísticas dos times. ",
+                afirmacao: "  Pelos times com melhor rendimento e entrega nos jogos, porque possuem a maior probabilidade de acerto. ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Como tentar acertar os palpites sobre os jogos?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Através de resultados anteriores.  ",
+                afirmacao: " Afirmação 1 - A campanha que o time vem tendo em jogos anteriores, procure olhar sempre os últimos 5 jogos. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Local do jogo.  ",
+                afirmacao: " Afirmação 2 - Tão importante quanto, por se tratar da atmosfera que o estádio vai possuir, se for em no estádio do adversário terá uma grande pressão, se for no estádio de seu time, terá a mesma, mas com um apoio de seus torcedores. ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "  Por que apostar?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "  Para tentar ter uma renda extra. ",
+                afirmacao: " Afirmação 1 - Não sendo dependente disso para arrecadar, isso tem um alto risco por conta de ser um jogo de azar.   ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Pela emoção. ",
+                afirmacao: " Afirmação 2 - Talvez ganância de ganhar dinheiro fácil, pois, é o que é proposto, mas com alto risco. ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Aposta é um investimento?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: " Não… ",
+                afirmacao: "Por não ter um retorno garantido, até por ser um jogo de azar.  ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Talvez ",
+                afirmacao: " Afirmação 2 - Talvez você pense assim por parecer fácil, até porque muitas pessoas ficaram rico através disso, mas é um risco muito grande a ser assumido, no entanto, não dependa disso para pagar suas dívidas. ",
             }
         ]
     },
