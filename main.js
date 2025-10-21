@@ -14,8 +14,8 @@ const perguntas = [
                 afirmacao: " Você correrá um alto risco de tomar golpe e não conseguir resgatar seu dinheiro. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Pode optar por sites legais. ",
+                afirmacao: " Casas tais como Betano, 7k bet, bet 365… Onde seus ganhos, tem um saque confiável. ",
             }
         ]
     },
